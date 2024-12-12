@@ -8,7 +8,7 @@ __pycache__/
 
 # Exclude directories
 other_dir/
-data/
+
 
 # Distribution / packaging
 .Python
